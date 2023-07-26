@@ -1,0 +1,16 @@
+/target
+./agg_instances/*
+./agg_instances_1/*
+./agg_instances_2/*
+./agg_instances_3/*
+./agg_instances_4/*
+./agg_instances_5/*
+./agg_instances_6/*
+./agg_instances_7/*
+./agg_instances_8/*
+./agg_instances_9/*
+./agg_instances_10/*
+./final_images/*
+./inputs/*
+./instances/*
+
